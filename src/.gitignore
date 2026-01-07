@@ -1,0 +1,38 @@
+target/
+!../TD2-PROG3-JDBC-Dec-K3/.mvn/wrapper/maven-wrapper.jar
+!**/src/main/**/target/
+!**/src/test/**/target/
+
+### IntelliJ IDEA ###
+../TD2-PROG3-JDBC-Dec-K3/.idea/modules.xml
+../TD2-PROG3-JDBC-Dec-K3/.idea/jarRepositories.xml
+../TD2-PROG3-JDBC-Dec-K3/.idea/compiler.xml
+../TD2-PROG3-JDBC-Dec-K3/.idea/libraries/
+*.iws
+*.iml
+*.ipr
+
+### Eclipse ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+build/
+!**/src/main/**/build/
+!**/src/test/**/build/
+
+### VS Code ###
+.vscode/
+
+### Mac OS ###
+.DS_Store
